@@ -2,8 +2,8 @@ body {
   background-color: rgb(28, 28, 30);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: white;
-  display: grid;
-  place-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
