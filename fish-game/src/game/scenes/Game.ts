@@ -25,7 +25,7 @@ export class Game extends Scene
         const fish = this.add.image(512, 350, 'fish').setDepth(100);
 
         // Ocean title text
-        this.add.text(512, 100, 'Deep Ocean Adventure', {
+        this.add.text(512, 100, 'Fish', {
             fontFamily: 'Arial Black',
             fontSize: 48,
             color: '#7fe7ff',
